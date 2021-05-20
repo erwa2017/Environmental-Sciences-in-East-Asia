@@ -154,8 +154,8 @@ opts_knit$set(self.contained=FALSE)
 <<chapterchild, child='chapters/coral-reefs.Rnw'>>=
 @
 
-%<<chapterchild, child='chapters/nuclear-waste.Rnw'>>=
-%@
+<<chapterchild, child='chapters/nuclear-ROK.Rnw'>>=
+@
 
 <<chapterchild, child='chapters/circular-economy.Rnw'>>=
 @

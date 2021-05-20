@@ -1,4 +1,6 @@
 \chapter{Nuclear Power and Nuclear Waste}
+\chapterauthor{Emily Williams}
+
 
 \section{Current and Future Energy Needs}
 
